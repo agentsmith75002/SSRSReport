@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SSRSReport/v16/.suo
+/MyFirstSSRSReport/bin/Debug
+/MyFirstSSRSReport/MyFirstSSRSReport.rptproj.rsuser
